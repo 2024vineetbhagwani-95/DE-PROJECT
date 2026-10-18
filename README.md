@@ -102,10 +102,4 @@ DE-PROJECT/
 └── README.md
 ```
 
-## Data Disclaimer
 
-This project uses **synthetically generated fitness data** for educational and analytical purposes. Participant records and network relationships are simulated and should not be interpreted as verified real-world health information or friendships.
-
----
-
-**Built as a Data Engineering project.**
