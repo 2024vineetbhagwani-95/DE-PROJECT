@@ -1,0 +1,14 @@
+[
+  {
+    "intensity":"High",
+    "workouts":15750
+  },
+  {
+    "intensity":"Low",
+    "workouts":15198
+  },
+  {
+    "intensity":"Moderate",
+    "workouts":31972
+  }
+]

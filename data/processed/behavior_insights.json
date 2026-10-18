@@ -1,0 +1,300 @@
+{
+  "goal_adherence": {
+    "weekly_goal_minutes": 150,
+    "weeks_observed": 53,
+    "goal_met_rate": 11.2,
+    "bands": [
+      {
+        "label": "Below 75 min",
+        "participants": 15798
+      },
+      {
+        "label": "75\u2013149 min",
+        "participants": 11962
+      },
+      {
+        "label": "150+ min",
+        "participants": 3513
+      }
+    ]
+  },
+  "consistency": [
+    {
+      "band": "Building",
+      "participants": 264,
+      "avg_sessions": 49.6
+    },
+    {
+      "band": "Consistent",
+      "participants": 413,
+      "avg_sessions": 92.5
+    },
+    {
+      "band": "Highly consistent",
+      "participants": 75,
+      "avg_sessions": 140.6
+    },
+    {
+      "band": "Occasional",
+      "participants": 48,
+      "avg_sessions": 22.7
+    }
+  ],
+  "recovery": [
+    {
+      "band": "Fair",
+      "participants": 38,
+      "avg_sleep": 6.77,
+      "avg_stress": 5.45
+    },
+    {
+      "band": "Good",
+      "participants": 754,
+      "avg_sleep": 6.99,
+      "avg_stress": 4.52
+    },
+    {
+      "band": "Strong",
+      "participants": 8,
+      "avg_sleep": 7.19,
+      "avg_stress": 3.53
+    }
+  ],
+  "retention": [
+    {
+      "month": "2025-01",
+      "month_label": "Jan",
+      "active_participants": 798,
+      "cohort_return_rate": 100.0
+    },
+    {
+      "month": "2025-02",
+      "month_label": "Feb",
+      "active_participants": 795,
+      "cohort_return_rate": 99.4
+    },
+    {
+      "month": "2025-03",
+      "month_label": "Mar",
+      "active_participants": 798,
+      "cohort_return_rate": 99.7
+    },
+    {
+      "month": "2025-04",
+      "month_label": "Apr",
+      "active_participants": 778,
+      "cohort_return_rate": 97.2
+    },
+    {
+      "month": "2025-05",
+      "month_label": "May",
+      "active_participants": 778,
+      "cohort_return_rate": 97.2
+    },
+    {
+      "month": "2025-06",
+      "month_label": "Jun",
+      "active_participants": 766,
+      "cohort_return_rate": 95.7
+    },
+    {
+      "month": "2025-07",
+      "month_label": "Jul",
+      "active_participants": 750,
+      "cohort_return_rate": 93.7
+    },
+    {
+      "month": "2025-08",
+      "month_label": "Aug",
+      "active_participants": 744,
+      "cohort_return_rate": 93.0
+    },
+    {
+      "month": "2025-09",
+      "month_label": "Sep",
+      "active_participants": 718,
+      "cohort_return_rate": 89.8
+    },
+    {
+      "month": "2025-10",
+      "month_label": "Oct",
+      "active_participants": 723,
+      "cohort_return_rate": 90.4
+    },
+    {
+      "month": "2025-11",
+      "month_label": "Nov",
+      "active_participants": 711,
+      "cohort_return_rate": 88.8
+    },
+    {
+      "month": "2025-12",
+      "month_label": "Dec",
+      "active_participants": 716,
+      "cohort_return_rate": 89.5
+    }
+  ],
+  "training_load": [
+    {
+      "month": "2025-01",
+      "month_label": "Jan",
+      "avg_load": 44.6,
+      "total_load": 263069.4,
+      "sessions": 5897
+    },
+    {
+      "month": "2025-02",
+      "month_label": "Feb",
+      "avg_load": 44.3,
+      "total_load": 252739.6,
+      "sessions": 5700
+    },
+    {
+      "month": "2025-03",
+      "month_label": "Mar",
+      "avg_load": 44.1,
+      "total_load": 285704.7,
+      "sessions": 6472
+    },
+    {
+      "month": "2025-04",
+      "month_label": "Apr",
+      "avg_load": 44.3,
+      "total_load": 269606.2,
+      "sessions": 6088
+    },
+    {
+      "month": "2025-05",
+      "month_label": "May",
+      "avg_load": 44.4,
+      "total_load": 268011.0,
+      "sessions": 6043
+    },
+    {
+      "month": "2025-06",
+      "month_label": "Jun",
+      "avg_load": 44.2,
+      "total_load": 244362.3,
+      "sessions": 5525
+    },
+    {
+      "month": "2025-07",
+      "month_label": "Jul",
+      "avg_load": 44.1,
+      "total_load": 219816.1,
+      "sessions": 4990
+    },
+    {
+      "month": "2025-08",
+      "month_label": "Aug",
+      "avg_load": 43.9,
+      "total_load": 203498.6,
+      "sessions": 4632
+    },
+    {
+      "month": "2025-09",
+      "month_label": "Sep",
+      "avg_load": 44.5,
+      "total_load": 187432.8,
+      "sessions": 4215
+    },
+    {
+      "month": "2025-10",
+      "month_label": "Oct",
+      "avg_load": 44.5,
+      "total_load": 190800.9,
+      "sessions": 4287
+    },
+    {
+      "month": "2025-11",
+      "month_label": "Nov",
+      "avg_load": 44.2,
+      "total_load": 194325.3,
+      "sessions": 4395
+    },
+    {
+      "month": "2025-12",
+      "month_label": "Dec",
+      "avg_load": 44.7,
+      "total_load": 208852.2,
+      "sessions": 4676
+    }
+  ],
+  "activity_efficiency": [
+    {
+      "activity_type": "Walking",
+      "sessions": 9573,
+      "avg_duration": 38.0,
+      "avg_calories": 197.3,
+      "avg_load": 40.0
+    },
+    {
+      "activity_type": "Weight Training",
+      "sessions": 7811,
+      "avg_duration": 52.2,
+      "avg_calories": 275.9,
+      "avg_load": 55.0
+    },
+    {
+      "activity_type": "Running",
+      "sessions": 7522,
+      "avg_duration": 34.2,
+      "avg_calories": 181.7,
+      "avg_load": 36.0
+    },
+    {
+      "activity_type": "Cycling",
+      "sessions": 7373,
+      "avg_duration": 47.8,
+      "avg_calories": 256.2,
+      "avg_load": 50.1
+    },
+    {
+      "activity_type": "Yoga",
+      "sessions": 6596,
+      "avg_duration": 42.0,
+      "avg_calories": 222.0,
+      "avg_load": 44.0
+    },
+    {
+      "activity_type": "Hiit",
+      "sessions": 5774,
+      "avg_duration": 28.7,
+      "avg_calories": 150.2,
+      "avg_load": 30.2
+    },
+    {
+      "activity_type": "Dancing",
+      "sessions": 4775,
+      "avg_duration": 44.9,
+      "avg_calories": 241.7,
+      "avg_load": 47.3
+    },
+    {
+      "activity_type": "Tennis",
+      "sessions": 4615,
+      "avg_duration": 46.3,
+      "avg_calories": 246.7,
+      "avg_load": 48.9
+    },
+    {
+      "activity_type": "Swimming",
+      "sessions": 4524,
+      "avg_duration": 39.8,
+      "avg_calories": 211.0,
+      "avg_load": 42.0
+    },
+    {
+      "activity_type": "Basketball",
+      "sessions": 4357,
+      "avg_duration": 49.9,
+      "avg_calories": 261.8,
+      "avg_load": 52.7
+    }
+  ],
+  "definitions": {
+    "weekly_goal": "150 active minutes per participant-week; simplified project benchmark.",
+    "recovery_score": "Illustrative composite derived from sleep, stress and heart-rate averages; not a medical measure.",
+    "retention": "Monthly return rate relative to participants active in the first month."
+  }
+}

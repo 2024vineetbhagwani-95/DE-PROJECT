@@ -1,0 +1,13 @@
+{
+  "rows_in": 62920,
+  "rows_out": 62920,
+  "missing_critical_rows_removed": 0,
+  "invalid_range_rows_removed": 0,
+  "duplicate_rows_removed": 0,
+  "health_condition_nulls_preserved": 49626,
+  "critical_nulls_remaining": 0,
+  "status": "SUCCESS",
+  "generated_at": "2026-10-18T11:34:15.796633+00:00",
+  "graph_nodes": 800,
+  "graph_edges": 2263
+}

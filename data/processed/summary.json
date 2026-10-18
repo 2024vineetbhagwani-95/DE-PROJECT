@@ -1,0 +1,14 @@
+{
+  "records": 62920,
+  "participants": 800,
+  "activity_types": 10,
+  "date_start": "2025-01-01",
+  "date_end": "2025-12-31",
+  "avg_duration": 42.11,
+  "avg_calories": 222.8,
+  "avg_steps": 8421.91,
+  "avg_sleep": 7.01,
+  "graph_nodes": 800,
+  "graph_edges": 2263,
+  "graph_note": "Edges represent inferred fitness similarity, not real social relationships."
+}
